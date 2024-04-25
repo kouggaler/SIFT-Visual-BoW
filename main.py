@@ -1,8 +1,4 @@
-"""
-Guideline of your submission of HW3.
-If you have any questions in regard to submission,
-please contact TA: Ma Zhiyuan <e0983565@u.nus.edu>
-"""
+
 import cv2
 import pandas as pd
 import numpy as np
